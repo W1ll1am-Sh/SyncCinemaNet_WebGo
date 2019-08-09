@@ -20,7 +20,12 @@ type TokenAuth struct{
 }
 
 func fakeUser() User{
-	fakeUser := User{2, "gregv2", "hamlet", "email", "kfodkoksdokfksodkfk", "uri link"}
+	fakeUser := User{2, 
+		"gregv2", 
+		"hamlet", 
+		"email", 
+		"kfodkoksdokfksodkfk", 
+		"uri link"}
 	
 	return fakeUser
 }
