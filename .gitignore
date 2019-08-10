@@ -5,3 +5,5 @@ vendor/
 #executable file
 SyncCinemaNet_WebGO
 SyncCinemaNet_WebGO.exe
+
+pg/bd_variables.go
